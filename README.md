@@ -2,8 +2,8 @@
 The goal of this exercise is to test your ability to tease out non obvious insights from data. We are looking for candidates with sound statistics knowledge and strong analytical capabilities. 
 
 The dataset provided to you contains car sales listings and descriptions from Craigslist. Your task is to dig into this dataset and come up with the following aggregations: 
-* insightful descriptive statistics that indicate a trend in the data (you can combine columns or use a subset of columns, entirely up to you. Try and be as creative as possible and extract as many non-obvious metrics as you can)
-* groups for your data such that all rows in your data can be easily categorized into groups with similar features. Make sure to list out the features for each group. 
+* Insightful descriptive statistics that indicate a trend in the data (you can combine columns or use a subset of columns, entirely up to you. Try and be as creative as possible and extract as many non-obvious metrics as you can)
+* Groups for your data such that all rows in your data can be easily categorized into groups with similar features. Make sure to list out the features for each group. 
 * *Optional: Develop a model that predicts the price listing of a car depending on its features.*
 * *HINT: Make sure you identify and remove outliers in the dataset that may indicate data corruption or skewed results on analysis.* 
 * *HINT: Feel free to choose a subset or combination of columns for grouping the data and in your prediction model* 
@@ -60,3 +60,4 @@ Your submission will be evaluated along the following criteria by the Reviewer
 ### Notes:   
 - Please feel free to ask clarifying questions via email!  
 - Thank you for the time you are spending as a candidate with STORD!
+- Please return your completed assignment within 5 days of receipt
