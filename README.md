@@ -44,7 +44,9 @@ You can download the data from [here](https://drive.google.com/drive/folders/1pm
 - Implement your solution in the tool of your choice (Tableau, PowerBI, Python, R, or other)
 - Email the point of contact that sent you this exercise. 
   * Include all relevant statistical graphs
-  * Make sure to label all graphs and add comments where needed
+  * Make sure to label all graphs
+  * Explain your thought process and add comments where needed
+  * Summarize your findings/takeaways from the assignment
 - Be prepared to walk through your solution during the interview with the hiring manager. 
 
 ## Evaluation
