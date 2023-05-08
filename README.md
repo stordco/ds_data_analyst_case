@@ -41,7 +41,7 @@ You can download the data from [here](https://drive.google.com/drive/folders/1pm
 
 ## Deliverable
 
-- Implement your solution in the tool of your choice (Tableau, PowerBI, Python, R, or other)
+- Implement your solution in the tool of your choice (Python or R preferred, can use a visualization tool to supplement)
 - Email the point of contact that sent you this exercise. 
   * Include all relevant statistical graphs
   * Make sure to label all graphs
